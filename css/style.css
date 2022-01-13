@@ -13,9 +13,3 @@
     background: rgba(255,255,255,50%);
     border-radius: 1rem;
 }
-
-input[type="file" i]{
-    white-space: break-spaces;
-    text-align: center;
-    text-overflow: clip;
-}
